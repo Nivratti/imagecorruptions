@@ -10,9 +10,9 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="imagecorruptions",
-    version="1.1.3",
-    author="Evgenia Rusak, Benjamin Mitzkus",
-    author_email="evgenia.rusak@bethgelab.org, benjamin.mitzkus@bethgelab.org",
+    version="1.1.4",
+    author="Nivratti Boyane",
+    author_email="boyanenivratti@gmail.com",
     description="This package provides a set of image corruptions.",
     long_description=long_description,
     long_description_content_type="text/markdown",
